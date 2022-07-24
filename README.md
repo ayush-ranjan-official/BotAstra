@@ -7,4 +7,6 @@ Made an Arduino project which counts the human population inside a hall by count
 - It uses Arduino UNO microcontroller with two ultrasonic distance sensors, first to be placed at entrance side of gate and second at the exit side.
 - First sensor counts the number of people coming in and second counts people going out. Our code performs relevent operations using the information.
 
+## Video link
+https://youtu.be/kMHYpLMneLk
 
